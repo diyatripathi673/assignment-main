@@ -52,7 +52,7 @@ const Login = () => {
               placeholder="Enter password"
               type="password"
             />
-            <button className="p-2 mt-4 bg-[#CBCBCB] text-white rounded-xl font-medium hover:bg-gray-500">
+            <button className="p-2 mt-4 bg-[#854DFF] text-white rounded-xl font-medium hover:bg-[#6C3DDB]">
               Login
             </button>
           </div>
